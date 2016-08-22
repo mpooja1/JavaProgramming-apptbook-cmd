@@ -1,0 +1,9 @@
+Project2's appointment book with 5 appointments
+#	Description---		---Start Time---					--End Time--			--Duration 
+1	This is Test 7	Thu Mar 03 00:00:00 PST 2016	Thu Mar 03 13:00:00 PST 2016	  13:0min
+2	This is Test 7	Thu Mar 03 11:00:00 PST 2016	Thu Mar 03 12:00:00 PST 2016	  1:0min
+3	ahis is Test 7	Thu Mar 03 11:00:00 PST 2016	Thu Mar 03 12:00:00 PST 2016	  1:0min
+4	ahis is Test 7	Thu Mar 03 11:00:00 PST 2016	Thu Mar 03 12:00:00 PST 2016	  1:0min
+5	This is Test 7	Thu Mar 03 11:00:00 PST 2016	Thu Mar 03 13:00:00 PST 2016	  2:0min
+
+Appointment Book Created on: 2016/07/21 07:17:49

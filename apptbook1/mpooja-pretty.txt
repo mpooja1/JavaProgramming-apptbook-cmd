@@ -1,0 +1,9 @@
+Project3's appointment book with 5 appointments
+#	Description---		---Start Time---					--End Time--			--Duration 
+1	This is Test 9	Sat Jan 23 12:00:00 PST 2016	Sat Jan 23 16:00:00 PST 2016	  4:0min
+2	(1) This is Test 4	Wed Mar 02 12:00:00 PST 2016	Sun Sep 04 14:00:00 PDT 2016	  4465:0min
+3	(2) This is Test 3	Thu Mar 03 12:00:00 PST 2016	Thu Mar 03 14:00:00 PST 2016	  2:0min
+4	(3) This is Test 7	Fri Mar 04 12:00:00 PST 2016	Sat Mar 05 14:00:00 PST 2016	  26:0min
+5	(4) This is Test 8	Mon Mar 07 14:00:00 PST 2016	Mon Mar 07 16:00:00 PST 2016	  2:0min
+
+Appointment Book Created on: 2016/07/24 14:56:52
