@@ -6,9 +6,10 @@ This project was developed as a part of assignment in Advanced Java Programming 
 
 Description of project can be found at following links-
 
-apptbook - 
+# apptbook - 
 http://web.cecs.pdx.edu/~whitlock/pdf/REST.pdf
 
-apptbook1 - 
+# apptbook1 - 
 http://web.cecs.pdx.edu/~whitlock/pdf/PrettyPrint.pdf 
+
 http://web.cecs.pdx.edu/~whitlock/pdf/TextFile.pdf
